@@ -1,0 +1,12 @@
+{
+  "singleQuote": false,
+  "trailingComma": "all",
+  "overrides": [
+    {
+      "files": ["*.html", "*.htm"],
+      "options": {
+        "trailingComma": "es5"
+      }
+    }
+  ]
+}
